@@ -80,12 +80,3 @@ Built a clean modeling dataset with:
 - No missing values after imputation
 - Properly scaled and encoded features
 
-## 📊 Results & Key Findings
-
-### 🔍 Exploratory Analysis Insights
-
-#### **1. Dramatic Discount Impact**
-```python
-# Key Finding: Discounts correlate with higher churn
-Discount customers: 85.7% churn rate
-Non-discount customers: 30.4% churn rate
